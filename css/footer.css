@@ -1,0 +1,17 @@
+#footer {
+   color:white;
+   background-color: #2E2F42;
+}
+.logoid{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: white;
+}
+
+.logoid .accent {
+    color: #4D5AE5;
+
+
+}

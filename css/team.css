@@ -1,0 +1,38 @@
+#team ul {
+    list-style: none;
+    
+    padding: 0;
+    margin: 0;
+}
+
+#team h3,
+#team h2,
+#team p {
+    width: 100%;
+    
+    text-align: center;
+    
+    display: block;
+    
+}
+#team{
+    background-color: #F4F4FD;
+}
+#team {
+    background-color:  #F4F4FD;
+    /* серый фон секции */
+    padding: 20px;
+}
+
+#team ul {
+    background-color: white;
+    /* белый фон списка */
+    padding: 10px;
+}
+
+#team li {
+    background-color: white;
+    /* белый фон каждого элемента */
+    margin-bottom: 5px;
+    padding: 5px;
+}
