@@ -2,8 +2,8 @@
     background-color: #2E2F42;
     color: white;
     text-align: center;
-    /* текст по центру */
-    font-size: 20px;
+    
+    font-size: 28px;
 }
 
 .btn-wrapper {
@@ -13,8 +13,17 @@
 .btn-wrapper  button {
     color: white;
     background-color: #4D5AE5;
-}
+    cursor: pointer;
     
+}
+.btn-wrapper button:hover,.btn-wrapper button:focus{
+   background-color: #bd24ae78;  
+}
+.hero-break {
+    display: block;
+    
+}
+  
 
 
 

@@ -1,38 +1,39 @@
-#team ul {
-    list-style: none;
-    
-    padding: 0;
-    margin: 0;
-}
-
-#team h3,
-#team h2,
-#team p {
-    width: 100%;
-    
-    text-align: center;
-    
-    display: block;
-    
-}
-#team{
+.team {
     background-color: #F4F4FD;
 }
-#team {
-    background-color:  #F4F4FD;
-    /* серый фон секции */
-    padding: 20px;
+
+.team-heading {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-align: center;
 }
 
-#team ul {
-    background-color: white;
-    /* белый фон списка */
-    padding: 10px;
+.team-list {
+    list-style: none;
+    padding-left: 0;
 }
 
-#team li {
-    background-color: white;
-    /* белый фон каждого элемента */
-    margin-bottom: 5px;
-    padding: 5px;
+.team-item {
+    background-color: #ffffff;
+    
+    text-align: center;
+}
+
+.team-member-name {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.team-member-role {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
