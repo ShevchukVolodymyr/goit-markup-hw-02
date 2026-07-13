@@ -3,21 +3,19 @@
     color: white;
     text-align: center;
     font-size: 56px;
-    height: 1.07;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     
 }
 
-.btn-wrapper button {
-    display: flex;
-    justify-content: flex-start;
-}
 .btn-wrapper  button {
     color: white;
     background-color: #4D5AE5;
     cursor: pointer;
     letter-spacing: 0.04em;
     line-height: 1.5;
+    font-size: 16px;
+    font-weight: 500;
 
 }
 .btn-wrapper button:hover,.btn-wrapper button:focus{
@@ -27,7 +25,7 @@
     display: block;
 
 }
-  
+
 
 
 
