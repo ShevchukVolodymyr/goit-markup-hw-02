@@ -2,11 +2,10 @@
 .logo {
     text-decoration: none;
     text-transform: uppercase;
-    font-weight: 500;
+    font-weight: 700;
     font-size: 18px;
     line-height: 1.33;
     letter-spacing: 0.03em;
-    
     color: #2E2F42;
 }
 .logo .accent {
@@ -27,7 +26,7 @@
     text-decoration: none;
     color: #2E2F42;
     font-family: "Roboto";
-    font-weight: 700;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
