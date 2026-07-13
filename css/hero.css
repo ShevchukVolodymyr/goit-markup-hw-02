@@ -1,12 +1,14 @@
-#hero {
+.hero {
     background-color: #2E2F42;
     color: white;
     text-align: center;
+    font-size: 56px;
+    height: 1.07;
+    letter-spacing: 0.02em;
     
-    font-size: 28px;
 }
 
-.btn-wrapper {
+.btn-wrapper button {
     display: flex;
     justify-content: flex-start;
 }
@@ -14,14 +16,16 @@
     color: white;
     background-color: #4D5AE5;
     cursor: pointer;
-    
+    letter-spacing: 0.04em;
+    line-height: 1.5;
+
 }
 .btn-wrapper button:hover,.btn-wrapper button:focus{
-   background-color: #bd24ae78;  
+   background-color: #404bbf;  
 }
 .hero-break {
     display: block;
-    
+
 }
   
 
